@@ -1,0 +1,51 @@
+
+
+#boton {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+}
+
+#boton1 {
+  position: absolute;
+  top: 10%;
+  left: 20%;
+}
+
+#boton2 {
+  position: absolute;
+  top: 10%;
+  left: 29%;
+}
+
+#boton6 {
+  position: absolute;
+  top: 10%;
+  left: 36%;
+}
+
+#boton3 {
+  position: absolute;
+  top: 10%;
+  left: 43.25%;
+}
+
+
+#boton4 {
+  position: absolute;
+  top: 10%;
+  left: 52.5%;
+}
+
+#boton5 {
+  position: absolute;
+  top: 10%;
+  left: 69.5%;
+}
+
+.contenedor {
+  text-align: center;
+  width: 130%; 
+  margin-top: 150px;
+}
+

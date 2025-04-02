@@ -1,0 +1,4 @@
+cedula,nombre_apellido,fecha_nacimiento,telefono,direccion,correo,estado
+1234567890,Juan Perez,1990-01-01,0987654321,"Calle Principal 123, Ciudad",juan.perez@email.com,Activado
+0987654321,Maria Lopez,1992-05-15,0998765432,"Av. Central 456, Ciudad",maria.lopez@email.com,Activado
+1122334455,Pedro Garcia,1988-12-30,0976543210,"Plaza Mayor 789, Ciudad",pedro.garcia@email.com,Activado
